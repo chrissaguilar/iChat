@@ -10,6 +10,11 @@
   </head>
 
   <body>
-    <%= yield %>
+
+    <%= render partial: 'shared/nav_view' %>
+
+    <div class="ui container">
+      <%= yield %>
+    </div>
   </body>
 </html>
