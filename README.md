@@ -1,24 +1,13 @@
-# README
+# iChat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App will allow users to login and send messages to each other.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+* Rails 5
 
-* System dependencies
+* Authentication System
 
-* Configuration
+* Restricting Views
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Store Messages to the Cloud
